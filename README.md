@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # i make stuff
-i kinda know python, react(-native), flutter and some C 
+i pretend that i know python, react(-native), flutter, C and emacs-lisp  
 
