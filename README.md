@@ -1,3 +1,1 @@
-# i-
-emacs, cats and ibm plex sans (rhymes?)
-
+comfortable in python and javascript, currently playing around with lisp
