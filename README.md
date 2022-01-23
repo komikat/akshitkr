@@ -1,1 +1,1 @@
-comfortable with python and javascript, lisp hobbyist
+comfortable with python, c and javascript, lisp hobbyist
